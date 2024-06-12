@@ -1,0 +1,89 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body{
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://images4.alphacoders.com/133/thumb-1920-1339110.png");
+  background-size: contain auto;
+}
+
+::placeholder{
+  color: #b6b6b6;
+}
+
+.bigger-box{
+  background-color: #0093E9;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  opacity: 0.7;
+  border-radius: 25px;
+  padding: 20px;
+  width: 95%;
+  max-width: 450px;
+  box-shadow: 5px 5px 5px #000;
+}
+
+.input-city{
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 25px;
+  font-size: 20px;
+  background-color: #b3b3b32b;
+  color: #ffffff;
+  width: calc(100% - 50px);
+}
+
+.button-search{
+  border: none;
+  outline: none;
+  padding: 10px;
+  border-radius: 50px;
+  background-color: #bbbbbb2b;
+  cursor: pointer;
+  float: right;
+  align-items: center;
+}
+
+.img-search{
+  width: 20px;
+}
+
+.media-box{
+  margin-top: 30px;
+}
+
+.minor-box{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+}
+
+.temp{
+  font-size: 20px;
+  color: #fff;
+  margin-top: 20px;
+}
+
+.city{
+  color: #fff;
+  font-size: 28px;
+  font-weight: 300;
+}
+
+.text-prevision{
+  color: #fff;
+  margin-left: 20px;
+  text-transform: capitalize;
+}
+
+.moisture{
+  color: #fff;
+}
