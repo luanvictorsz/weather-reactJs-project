@@ -1,3 +1,6 @@
+[Projeto de estudo] Aplicação desenvolvida a previsão do tempo em react Js usando como base o projeto html, css e js do DEVCLUB
+fonte: https://youtu.be/qxzqEuAOYZ4?si=4M7Qjto_annGkRAm
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
