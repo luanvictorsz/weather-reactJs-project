@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import './App.css';
 
-const API_KEY = 'aqui fica a sua chave API'; //consulte https://openweathermap.org/api para adiquirir
+const API_KEY = 'dcb679bff05acdac4053c01c78f6e23f'; //consulte https://openweathermap.org/api para adiquirir
 
 function WeatherApp() {
   const [city, setCity] = useState('São Paulo');
