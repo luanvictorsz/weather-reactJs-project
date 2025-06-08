@@ -1,11 +1,2 @@
-[Projeto de estudo] Aplicação desenvolvida a previsão do tempo em react Js usando como base o projeto html, css e js do DEVCLUB
-fonte: https://youtu.be/qxzqEuAOYZ4?si=4M7Qjto_annGkRAm
-
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Study Project] Weather forecast application developed in React JS, based on the HTML, CSS, and JS project from DEVCLUB
+Source: https://youtu.be/qxzqEuAOYZ4?si=4M7Qjto_annGkRAm
